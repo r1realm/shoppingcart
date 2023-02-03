@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poliwhirl
+* source:	https://sketchfab.com/3d-models/poliwhirl-a3b7b1a4ca67487d92a4843d47380d0e
+* author:	fongoose (https://sketchfab.com/fongoose)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poliwhirl" (https://sketchfab.com/3d-models/poliwhirl-a3b7b1a4ca67487d92a4843d47380d0e) by fongoose (https://sketchfab.com/fongoose) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

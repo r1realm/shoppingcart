@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spiderman toy
+* source:	https://sketchfab.com/3d-models/spiderman-toy-32304ccc8e6b416c82007ef94b211680
+* author:	gaelkerchy (https://sketchfab.com/gaelkerchy)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spiderman toy" (https://sketchfab.com/3d-models/spiderman-toy-32304ccc8e6b416c82007ef94b211680) by gaelkerchy (https://sketchfab.com/gaelkerchy) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

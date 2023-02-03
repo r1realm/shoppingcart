@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kuromi
+* source:	https://sketchfab.com/3d-models/kuromi-a9a4883cbc2a40e89722001aa6288ba8
+* author:	jiayingc (https://sketchfab.com/jiayingc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kuromi" (https://sketchfab.com/3d-models/kuromi-a9a4883cbc2a40e89722001aa6288ba8) by jiayingc (https://sketchfab.com/jiayingc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

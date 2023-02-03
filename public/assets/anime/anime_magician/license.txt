@@ -1,0 +1,11 @@
+Model Information:
+* title:	dark magician
+* source:	https://sketchfab.com/3d-models/dark-magician-2d07fa9747124142a5a0828c8b28478b
+* author:	Yamato (https://sketchfab.com/yamato.usar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "dark magician" (https://sketchfab.com/3d-models/dark-magician-2d07fa9747124142a5a0828c8b28478b) by Yamato (https://sketchfab.com/yamato.usar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

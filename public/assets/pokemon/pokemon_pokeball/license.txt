@@ -1,0 +1,11 @@
+Model Information:
+* title:	POKEBALL
+* source:	https://sketchfab.com/3d-models/pokeball-acf58793b2d84551853c7d554866708d
+* author:	AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "POKEBALL" (https://sketchfab.com/3d-models/pokeball-acf58793b2d84551853c7d554866708d) by AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
