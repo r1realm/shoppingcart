@@ -5,7 +5,7 @@ function Header() {
     <header>
       <div>
         <a href="#/">
-            <h1>Cart</h1>
+          <h1 className="cart">Cart</h1>
         </a>
       </div>
     </header>
