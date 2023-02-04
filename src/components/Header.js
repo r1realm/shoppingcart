@@ -1,11 +1,15 @@
 import React from "react";
 
-function Header() {
+function Header(props) {
+  const {countCartItems} = props;
   return (
     <header>
       <div>
-        <a href="#/">
-          <h1 className="cart">Cart</h1>
+        <a href="#/"> 
+         Cart {''} 
+         {countCartItems?(
+            <button className="badge">{countCartItems}</button>
+          ): ('')}
         </a>
       </div>
     </header>
