@@ -58,6 +58,5 @@ function Basket(props) {
     </aside>
   );
 }
-
 export default Basket;
 

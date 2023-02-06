@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Helvetica';
 }
@@ -19,8 +20,8 @@ a {
   text-decoration: none;
 }
 .row {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 2;
 }
 .row.center {
   align-items: center;
@@ -28,14 +29,15 @@ a {
 .col-1 {
   flex: 1;
 }
-.col-2 {
-  flex: 2;
+.row-2 {
+  grid: 1;
 }
 .block {
   background-color: #e0e0e0;
   padding: 1rem;
   margin: 0.5rem;
   border-radius: 0.5rem;
+  gap: 0.5rem;
 }
 .text-right {
   text-align: right;

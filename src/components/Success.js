@@ -1,0 +1,10 @@
+//this page is when the payment is successful.
+import React from 'react'
+
+function Success() {
+  return (
+   <h1>Thank you for your purchase!</h1>
+  )
+}
+
+export default Success;

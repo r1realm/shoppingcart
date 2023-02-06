@@ -18,25 +18,25 @@ const data = {
       url: "https://picsum.photos/seed/picsum/200/300",
       precio: 60,
     },
-    // {
-    //   id: "4",
-    //   name: "magician",
-    //   url: "https://picsum.photos/seed/picsum/200/300",
-    //   precio: 50,
-    // },
-    // {
-    //   id: "5",
-    //   name: "momonga",
-    //   url: "https://picsum.photos/seed/picsum/200/300",
-    //   precio: 20,
-    // },
-    // {
-    //   id: "6",
-    //   name: "books",
-    //   src:"./assets/items/item_books/scene.gltf",
-    //   url: "https://picsum.photos/seed/picsum/200/300",
-    //   precio: 30,
-    // },
+    {
+      id: "4",
+      name: "magician",
+      url: "https://picsum.photos/seed/picsum/200/300",
+      precio: 50,
+    },
+    {
+      id: "5",
+      name: "momonga",
+      url: "https://picsum.photos/seed/picsum/200/300",
+      precio: 20,
+    },
+    {
+      id: "6",
+      name: "books",
+      src:"./assets/items/item_books/scene.gltf",
+      url: "https://picsum.photos/seed/picsum/200/300",
+      precio: 30,
+    },
   ],
 };
 

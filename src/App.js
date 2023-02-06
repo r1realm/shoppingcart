@@ -4,6 +4,13 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Basket from "./components/Basket";
 import "./App.css";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import Success from "./components/Success.js";
+import Cancel from "./components/Cancel.js";
+
+//localhost:3000 -> Home this will direct it to the Main.js page where we will have all the items to sell
+//localhost:3000/success -> Success(component)
+//localhost:3000/cancel -> Cancel(component)
 
 function App() {
   const { products } = data;
@@ -42,18 +49,24 @@ function App() {
      }
    };
   return (
-      <div>
-        <Header countCartItems={cartItems.length}/>
-         <div className="row">
+    <div>
+      <Header countCartItems={cartItems.length} />
+      <div className="row">
         <Main products={products} onAdd={onAdd} />
         <Basket
           cartItems={cartItems}
           onAdd={onAdd}
           onRemove={onRemove}
         ></Basket>
+        <BrowserRouter>
+          <Routes>
+            {/* <Route index element={<Main />} /> */}
+            <Route path="success" element={<Success />} />
+            <Route path="cancel" element={<Cancel />} />
+          </Routes>
+        </BrowserRouter>
       </div>
-      </div>  
-
+    </div>
   );
 }
 
